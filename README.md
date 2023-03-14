@@ -1,5 +1,5 @@
 ---
-description: 'Build on Zukeswap and need help? let us know.'
+description: 'Building on Zukeswap and need help? let us know.'
 ---
 
 ## Building on ZukeSwap
@@ -10,7 +10,7 @@ description: 'Build on Zukeswap and need help? let us know.'
 
 **Factory Address**: `0xc738bE6fE1A54d7B0F6e4C3262a46a002aC2508e`
 
-**Multicall Address**: `0x474a0768AeE3D378356524F331235b3e5fD21416``
+**Multicall Address**: `0x474a0768AeE3D378356524F331235b3e5fD21416`
 
 ## How to get your token LOGO on Zukeswap:
 
