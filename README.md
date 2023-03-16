@@ -18,7 +18,7 @@ description: 'Building on Zukeswap and need help? let us know.'
 
 > * **File Extension**: `png` . Uppercase `PNG` is considered invalid
 > * **File Name**：`logo.png`
-> * **Size**: `256px by 256px`
+> * **Size**: `96px by 96px`
 > * **Background**: Transparent is a must
 
 ### 2. Token Information File <a id="2-token-information-file"></a>
@@ -34,13 +34,12 @@ The contract address should follow the checksum address format \(see next requir
 
 ```
 {
-       "chainId":15551,
-       "address":"",
-       "name":"ZukeSwap Token",
-       "symbol":"ZUKE",
-       "decimals":18,
-       "logoURI":""
-
+      "name": "ZukeSwap Token",
+      "symbol": "ZUKE",
+      "address": "0xE3bAAb444d70CE9FCe8d07Ef24Af1Ae5C5E09fD1",
+      "chainId": 15551,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ZukeSwap/zukeswap-default-token-list/main/assets/0xE3bAAb444d70CE9FCe8d07Ef24Af1Ae5C5E09fD1/logo.png"
 },
 
 ``` 
