@@ -1,0 +1,30 @@
+{
+  "name": "ZukeSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/ZukeSwap/zukeswap-default-token-list/main/assets/0xE3bAAb444d70CE9FCe8d07Ef24Af1Ae5C5E09fD1/logo.png",
+  "keywords": ["zukeswap", "default"],
+  "tokens": [
+    {
+      "name": "WLOOP Token",
+      "symbol": "WLOOP",
+      "address": "0x3936D20a39eD4b0d44EaBfC91757B182f14A38d5",
+      "chainId": 15551,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ZukeSwap/zukeswap-default-token-list/main/assets/WLOOP/logo.png"
+    },
+    {
+      "name": "ZukeSwap Token",
+      "symbol": "ZUKE",
+      "address": "0xE3bAAb444d70CE9FCe8d07Ef24Af1Ae5C5E09fD1",
+      "chainId": 15551,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ZukeSwap/zukeswap-default-token-list/main/assets/0xE3bAAb444d70CE9FCe8d07Ef24Af1Ae5C5E09fD1/logo.png"
+    }
+  ]
+}
