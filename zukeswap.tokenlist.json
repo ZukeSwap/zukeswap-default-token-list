@@ -25,6 +25,14 @@
       "chainId": 15551,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ZukeSwap/zukeswap-default-token-list/main/assets/0xE3bAAb444d70CE9FCe8d07Ef24Af1Ae5C5E09fD1/logo.png"
+    },
+    {
+      "name": "ARC",
+      "symbol": "ARC",
+      "address": "0x6927568448672477F675D1EAcbfFB20C1E5B7EEC",
+      "chainId": 15551,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ZukeSwap/zukeswap-default-token-list/main/assets/0x6927568448672477F675D1EAcbfFB20C1E5B7EEC/logo%20(2).png"
     }
   ]
 }
