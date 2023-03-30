@@ -48,6 +48,6 @@ The Pull request will be screened before it gets added to the repository. In ord
 
 * **Project has a website.**
 * **Has a social media presence.**
-* **Project must have some trading volume (ie. > $ 2k).**
+* **Project must have a significant amount of liquidity and volume.**
 * **Verified Contract on LOOP Explorer.**
 * **Detailed Token Information.**
